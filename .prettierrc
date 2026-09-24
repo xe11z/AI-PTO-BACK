@@ -1,0 +1,21 @@
+{
+  "printWidth": 120,
+  "tabWidth": 2,
+  "semi": true,
+  "useTabs": false,
+  "singleQuote": false,
+  "quoteProps": "as-needed",
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "endOfLine": "crlf",
+  "overrides": [
+    {
+      "files": ["*.scss"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}

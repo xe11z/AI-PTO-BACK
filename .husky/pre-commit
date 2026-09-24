@@ -1,0 +1,3 @@
+node scripts/check-branch-name.cjs
+yarn lint-staged
+yarn typecheck
