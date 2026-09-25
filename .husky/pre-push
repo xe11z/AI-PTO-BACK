@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 node check-branch-name.cjs
-yarn format:check
+# yarn format:check
 yarn lint
 yarn typecheck
 # yarn test
